@@ -41,7 +41,7 @@
 * Jerrod Paul Junker
 * Nicole Hall
 * Torie Warren
-* Jason Pilz - Using CloudKit for a BaaS
+* Jason Pilz - [Using CloudKit as a BaaS](https://gist.github.com/cd1f2a513f4534eed272.git)
 * Matt Stjernholm
 * [George Hudson](http//turingwithgeorge.tumblr.com) - [Crucial Conversations](https://gist.github.com/Egogre/805db3782ecba2591f51)
 
